@@ -9,3 +9,7 @@ a = function(x)
 
  a(10)
  
+
+ 
+ print("pop")
+ 
