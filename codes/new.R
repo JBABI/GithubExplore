@@ -7,5 +7,5 @@ a = function(x)
   return(x^x)
 }
 
-a(10)
+ a(10)
  
